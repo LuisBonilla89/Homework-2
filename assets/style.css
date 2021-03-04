@@ -3,7 +3,9 @@
   padding: 0px;
   box-sizing: border-box;
 }
-
+html {
+  scroll-behavior: smooth;
+}
 body {
   font-family: "Poppins", sans-serif;
 }
@@ -59,11 +61,11 @@ h2 {
   font-family: "Poppins", sans-serif;
 }
 .luis {
-  width: 300px;
-  height: 300px;
+  width: 400px;
+  height: 400px;
   position: relative;
-  top: -200px;
-  left: 70px;
+  top: -100px;
+  left: 200px;
   border-radius: 50%;
 }
 
@@ -140,8 +142,15 @@ footer {
   width: 70%;
 }
 
+.logo-2 {
+  color: rgb(198, 234, 243);
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  font-size: 30px;
+}
+
 .footer-links a {
-  color: rgb(235, 231, 231);
+  color: rgb(197, 243, 245);
   text-decoration: none;
   letter-spacing: 3px;
   font-weight: bold;
