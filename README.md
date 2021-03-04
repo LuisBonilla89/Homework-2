@@ -14,7 +14,7 @@ The purpose of this assignment was to create a portfolio website highlighting th
 
 ## Screenshot
 
-![Built application](assets/images/screenshot.png)
+![Built application](images/screenshot.png)
 
 ## Deployed Application
 
